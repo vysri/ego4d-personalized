@@ -1,0 +1,2748 @@
+{
+  "videos": [
+    {
+      "video_uid": "8a933a23-55ff-42f2-8f86-c7746b2e09ac",
+      "clips": [
+        {
+          "clip_uid": "5a347110-21e3-47eb-83f8-6e60d07c1b77",
+          "video_start_sec": 0.0,
+          "video_end_sec": 480.0,
+          "video_start_frame": 0,
+          "video_end_frame": 14400,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "952f0d00-5afc-49cd-8df7-963944060643",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 97.71841,
+                  "clip_end_sec": 104.01615,
+                  "video_start_sec": 97.71841,
+                  "video_end_sec": 104.01615,
+                  "video_start_frame": 2932,
+                  "video_end_frame": 3120,
+                  "template": "Objects: Where is object X before / after event Y?",
+                  "query": "Where was the screw packet after I tore it up?",
+                  "slot_x": "X Text (Optional):screw packet",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):I tore it up",
+                  "verb_y": "Y Verb (Optional):tear",
+                  "answer": "Answer (Optional):In the dustbin",
+                  "raw_tags": [
+                    "Objects: Where is object X before / after event Y?",
+                    "Query Text:Where was the screw packet after I tore it up?",
+                    "X Text (Optional):screw packet",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):I tore it up",
+                    "Y Verb (Optional):tear",
+                    "Answer (Optional):In the dustbin"
+                  ]
+                },
+                {
+                  "clip_start_sec": 390.61565,
+                  "clip_end_sec": 394.46958,
+                  "video_start_sec": 390.61565,
+                  "video_end_sec": 394.46958,
+                  "video_start_frame": 11718,
+                  "video_end_frame": 11834,
+                  "template": "Objects: State of an object",
+                  "query": "Did I leave the drawer door open?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):No",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I leave the drawer door open?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):No"
+                  ]
+                }
+              ],
+              "annotation_uid": "7be5aaf7-4b93-42e3-9a90-9a31a86139b1"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 102.14749,
+                  "clip_end_sec": 105.73181,
+                  "video_start_sec": 102.14749,
+                  "video_end_sec": 105.73181,
+                  "video_start_frame": 3064,
+                  "video_end_frame": 3172,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the dustbin?",
+                  "slot_x": "X Text (Optional):Dustbin",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Plastic bag",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the dustbin?",
+                    "X Text (Optional):Dustbin",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Plastic bag"
+                  ]
+                },
+                {
+                  "clip_start_sec": 424.45415,
+                  "clip_end_sec": 431.53,
+                  "video_start_sec": 424.45415,
+                  "video_end_sec": 431.53,
+                  "video_start_frame": 12734,
+                  "video_end_frame": 12946,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put on the drum?",
+                  "slot_x": "X Text (Optional):Drum",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": "Y Verb (Optional):[verb_not_applicable]",
+                  "answer": "Answer (Optional):Machine tool",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put on the drum?",
+                    "X Text (Optional):Drum",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    "Y Verb (Optional):[verb_not_applicable]",
+                    "Answer (Optional):Machine tool"
+                  ]
+                }
+              ],
+              "annotation_uid": "617e04f3-7d27-4282-95d7-e630ca3d9de6"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "ff1f1ba3-ec19-4947-8632-1f7778e7a115",
+      "clips": [
+        {
+          "clip_uid": "c0c24027-ee4e-4c79-86cb-cc96879da63d",
+          "video_start_sec": 90.02102864583334,
+          "video_end_sec": 570.0210286458333,
+          "video_start_frame": 2700,
+          "video_end_frame": 17100,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "a4a40c0a-0541-41fd-9fb8-52968d6d2819",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 134.90088,
+                  "clip_end_sec": 142.56761,
+                  "video_start_sec": 224.92190864583335,
+                  "video_end_sec": 232.58863864583333,
+                  "video_start_frame": 6747,
+                  "video_end_frame": 6977,
+                  "template": "Objects: Where is object X before / after event Y?",
+                  "query": "Where was the Russell Stover before I picked it up ?",
+                  "slot_x": "X Text (Optional):Russell Stover",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):I picked it up",
+                  "verb_y": "Y Verb (Optional):[verb_not_applicable]",
+                  "answer": "Answer (Optional):The Russell Stover was on the rack before I picked it up.",
+                  "raw_tags": [
+                    "Objects: Where is object X before / after event Y?",
+                    "Query Text:Where was the Russell Stover before I picked it up ?",
+                    "X Text (Optional):Russell Stover",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):I picked it up",
+                    "Y Verb (Optional):[verb_not_applicable]",
+                    "Answer (Optional):The Russell Stover was on the rack before I picked it up."
+                  ]
+                },
+                {
+                  "clip_start_sec": 380.6704,
+                  "clip_end_sec": 388.95301,
+                  "video_start_sec": 470.6914286458333,
+                  "video_end_sec": 478.97403864583333,
+                  "video_start_frame": 14120,
+                  "video_end_frame": 14369,
+                  "template": "Objects: Where is object X before / after event Y?",
+                  "query": "Where was the ballast point brewing before I picked it up?\n\n",
+                  "slot_x": "X Text (Optional):ballast point brewing",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):I picked it up",
+                  "verb_y": "Y Verb (Optional):pick",
+                  "answer": "Answer (Optional):The ballast point brewing was in the fridge before I picked it up.",
+                  "raw_tags": [
+                    "Objects: Where is object X before / after event Y?",
+                    "Query Text:Where was the ballast point brewing before I picked it up?\n\n",
+                    "X Text (Optional):ballast point brewing",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):I picked it up",
+                    "Y Verb (Optional):pick",
+                    "Answer (Optional):The ballast point brewing was in the fridge before I picked it up."
+                  ]
+                }
+              ],
+              "annotation_uid": "a6b05304-c588-499a-bb81-eb813baaff82"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "2f46d1e6-2a85-4d46-b955-10c2eded661c",
+      "clips": [
+        {
+          "clip_uid": "91109ecc-7c8c-4167-af13-a99dbbccc875",
+          "video_start_sec": 360.0,
+          "video_end_sec": 840.0,
+          "video_start_frame": 10800,
+          "video_end_frame": 25200,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "01b6d28f-d7ad-468f-a797-6b2ebbb5987b",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 459.39605,
+                  "clip_end_sec": 462.14994,
+                  "video_start_sec": 819.3960500000001,
+                  "video_end_sec": 822.14994,
+                  "video_start_frame": 24582,
+                  "video_end_frame": 24664,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the forks?",
+                  "slot_x": "X Text (Optional):forks",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):in the kitchen drawer.",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the forks?",
+                    "X Text (Optional):forks",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):in the kitchen drawer."
+                  ]
+                }
+              ],
+              "annotation_uid": "be12acbd-ee01-4c5f-ae4b-39e0e7abab31"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 267.473,
+                  "clip_end_sec": 271.08428,
+                  "video_start_sec": 627.473,
+                  "video_end_sec": 631.08428,
+                  "video_start_frame": 18824,
+                  "video_end_frame": 18933,
+                  "template": null,
+                  "query": "Where was the cheese pack?",
+                  "slot_x": "X Text (Optional):cheese pack",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):in the fridge",
+                  "raw_tags": [
+                    null,
+                    "Query Text:Where was the cheese pack?",
+                    "X Text (Optional):cheese pack",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):in the fridge"
+                  ]
+                },
+                {
+                  "clip_start_sec": 458.35983,
+                  "clip_end_sec": 463.97,
+                  "video_start_sec": 818.35983,
+                  "video_end_sec": 823.97,
+                  "video_start_frame": 24551,
+                  "video_end_frame": 24719,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the fork?",
+                  "slot_x": "X Text (Optional):fork",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):\n",
+                  "verb_y": null,
+                  "answer": "Answer (Optional):in utensil organizer",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the fork?",
+                    "X Text (Optional):fork",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):\n",
+                    null,
+                    "Answer (Optional):in utensil organizer"
+                  ]
+                }
+              ],
+              "annotation_uid": "489ccd20-a03c-4d13-afa7-9474cb7a95cf"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "b6582e60-d54f-4779-8c7d-06f07b0ffcdc",
+      "clips": [
+        {
+          "clip_uid": "fbe90a85-5bd6-4563-9799-93265d4d825a",
+          "video_start_sec": 2520.021028645833,
+          "video_end_sec": 3000.021028645833,
+          "video_start_frame": 75600,
+          "video_end_frame": 90000,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "abe94ed1-ee49-41b0-8646-dd643f42fd79",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 17.52023,
+                  "clip_end_sec": 33.60239,
+                  "video_start_sec": 2537.5412586458333,
+                  "video_end_sec": 2553.623418645833,
+                  "video_start_frame": 76126,
+                  "video_end_frame": 76608,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the brown box?",
+                  "slot_x": "X Text (Optional):Brown Box",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):In front of the black door",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the brown box?",
+                    "X Text (Optional):Brown Box",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):In front of the black door"
+                  ]
+                }
+              ],
+              "annotation_uid": "8044947f-e3a3-4f5f-9fd7-085a18c74415"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "5cd80891-0370-4285-81e3-d78f5a649f82",
+      "clips": [
+        {
+          "clip_uid": "3e4eb5bd-bf6e-4e8f-adc3-68412e41f8e6",
+          "video_start_sec": 810.0210286458333,
+          "video_end_sec": 1290.0210286458334,
+          "video_start_frame": 24300,
+          "video_end_frame": 38700,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0000000000001,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "221fb348-9edb-4ea4-9200-f61d0ea45b8c",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 65.8848,
+                  "clip_end_sec": 95.5635,
+                  "video_start_sec": 875.9058286458334,
+                  "video_end_sec": 905.5845286458333,
+                  "video_start_frame": 26277,
+                  "video_end_frame": 27167,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the game board?",
+                  "slot_x": "X Text (Optional):the game board",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):In the game box.",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the game board?",
+                    "X Text (Optional):the game board",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):In the game box."
+                  ]
+                },
+                {
+                  "clip_start_sec": 109.69652,
+                  "clip_end_sec": 122.8503,
+                  "video_start_sec": 919.7175486458333,
+                  "video_end_sec": 932.8713286458333,
+                  "video_start_frame": 27591,
+                  "video_end_frame": 27986,
+                  "template": "Objects: What X is Y?",
+                  "query": "What word was printed on the white box kept in the middle rack of the white stand?",
+                  "slot_x": "X Text (Optional):word",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):printed on the white box kept in the middle rack of the white stand",
+                  "verb_y": "Y Verb (Optional):print",
+                  "answer": "Answer (Optional):Triscuit.",
+                  "raw_tags": [
+                    "Objects: What X is Y?",
+                    "Query Text:What word was printed on the white box kept in the middle rack of the white stand?",
+                    "X Text (Optional):word",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):printed on the white box kept in the middle rack of the white stand",
+                    "Y Verb (Optional):print",
+                    "Answer (Optional):Triscuit."
+                  ]
+                },
+                {
+                  "clip_start_sec": 136.59678,
+                  "clip_end_sec": 205.07826,
+                  "video_start_sec": 946.6178086458333,
+                  "video_end_sec": 1015.0992886458333,
+                  "video_start_frame": 28398,
+                  "video_end_frame": 30452,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the dustbin?",
+                  "slot_x": "X Text (Optional):the dustbin",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Trash cleaned from the floor.",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the dustbin?",
+                    "X Text (Optional):the dustbin",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Trash cleaned from the floor."
+                  ]
+                },
+                {
+                  "clip_start_sec": 211.22348,
+                  "clip_end_sec": 214.62355,
+                  "video_start_sec": 1021.2445086458333,
+                  "video_end_sec": 1024.6445786458332,
+                  "video_start_frame": 30637,
+                  "video_end_frame": 30739,
+                  "template": "Objects: What X is Y?",
+                  "query": "What word was printed on the cap of the bottle with yellow liquid on the window?",
+                  "slot_x": "X Text (Optional):word",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):printed on the cap of the bottle with yellow liquid on the window",
+                  "verb_y": "Y Verb (Optional):print",
+                  "answer": "Answer (Optional):Tejava.",
+                  "raw_tags": [
+                    "Objects: What X is Y?",
+                    "Query Text:What word was printed on the cap of the bottle with yellow liquid on the window?",
+                    "X Text (Optional):word",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):printed on the cap of the bottle with yellow liquid on the window",
+                    "Y Verb (Optional):print",
+                    "Answer (Optional):Tejava."
+                  ]
+                },
+                {
+                  "clip_start_sec": 214.03747,
+                  "clip_end_sec": 215.28408,
+                  "video_start_sec": 1024.0584986458334,
+                  "video_end_sec": 1025.3051086458333,
+                  "video_start_frame": 30721,
+                  "video_end_frame": 30759,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the scissor?",
+                  "slot_x": "X Text (Optional):the scissor",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):On the window behind the white rack.",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the scissor?",
+                    "X Text (Optional):the scissor",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):On the window behind the white rack."
+                  ]
+                }
+              ],
+              "annotation_uid": "1e06ec97-234b-4b5f-b747-e6ac865c195f"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 75.311,
+                  "clip_end_sec": 101.248,
+                  "video_start_sec": 885.3320286458334,
+                  "video_end_sec": 911.2690286458334,
+                  "video_start_frame": 26559,
+                  "video_end_frame": 27337,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I keep the game board?",
+                  "slot_x": "X Text (Optional):the game board",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):In the game box.",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I keep the game board?",
+                    "X Text (Optional):the game board",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):In the game box."
+                  ]
+                },
+                {
+                  "clip_start_sec": 111.508,
+                  "clip_end_sec": 122.668,
+                  "video_start_sec": 921.5290286458334,
+                  "video_end_sec": 932.6890286458333,
+                  "video_start_frame": 27645,
+                  "video_end_frame": 27980,
+                  "template": "Objects: What X is Y?",
+                  "query": "What word was printed in blue on the white box?",
+                  "slot_x": "X Text (Optional):word",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):printed in blue on the white box?",
+                  "verb_y": "Y Verb (Optional):print",
+                  "answer": "Answer (Optional):Triscuit.",
+                  "raw_tags": [
+                    "Objects: What X is Y?",
+                    "Query Text:What word was printed in blue on the white box?",
+                    "X Text (Optional):word",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):printed in blue on the white box?",
+                    "Y Verb (Optional):print",
+                    "Answer (Optional):Triscuit."
+                  ]
+                },
+                {
+                  "clip_start_sec": 144.728,
+                  "clip_end_sec": 204.819,
+                  "video_start_sec": 954.7490286458333,
+                  "video_end_sec": 1014.8400286458333,
+                  "video_start_frame": 28642,
+                  "video_end_frame": 30445,
+                  "template": "Objects: What X did I Y?",
+                  "query": "What colour dustpan did I hold while cleaning the floor?",
+                  "slot_x": "X Text (Optional):colour dustpan",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):hold while cleaning the floor",
+                  "verb_y": "Y Verb (Optional):hold",
+                  "answer": "Answer (Optional):White.",
+                  "raw_tags": [
+                    "Objects: What X did I Y?",
+                    "Query Text:What colour dustpan did I hold while cleaning the floor?",
+                    "X Text (Optional):colour dustpan",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):hold while cleaning the floor",
+                    "Y Verb (Optional):hold",
+                    "Answer (Optional):White."
+                  ]
+                },
+                {
+                  "clip_start_sec": 214.465,
+                  "clip_end_sec": 215.247,
+                  "video_start_sec": 1024.4860286458334,
+                  "video_end_sec": 1025.2680286458333,
+                  "video_start_frame": 30734,
+                  "video_end_frame": 30757,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the scissor?",
+                  "slot_x": "X Text (Optional):the scissor",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):On the window behind the rack",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the scissor?",
+                    "X Text (Optional):the scissor",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):On the window behind the rack"
+                  ]
+                }
+              ],
+              "annotation_uid": "5693e28d-1181-4bdc-b618-b1906da5e792"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "aa30794e-fd69-4e30-99a8-5c44dd3ecbf7",
+      "clips": [
+        {
+          "clip_uid": "c947fd79-79b8-4b9a-a5e1-6564692cda79",
+          "video_start_sec": 360.0,
+          "video_end_sec": 751.3666666666667,
+          "video_start_frame": 10800,
+          "video_end_frame": 22541,
+          "clip_start_sec": 0,
+          "clip_end_sec": 391.3666666666667,
+          "clip_start_frame": 0,
+          "clip_end_frame": 11741,
+          "source_clip_uid": "07bff3fa-e099-40a0-92f6-77476de56cd4",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 165.91,
+                  "clip_end_sec": 168.361,
+                  "video_start_sec": 525.91,
+                  "video_end_sec": 528.361,
+                  "video_start_frame": 15777,
+                  "video_end_frame": 15851,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many scissors were there ?",
+                  "slot_x": "X Text (Optional):scissors",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):2 scissors ",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many scissors were there ?",
+                    "X Text (Optional):scissors",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):2 scissors "
+                  ]
+                },
+                {
+                  "clip_start_sec": 191.5161,
+                  "clip_end_sec": 191.98283,
+                  "video_start_sec": 551.5161,
+                  "video_end_sec": 551.98283,
+                  "video_start_frame": 16545,
+                  "video_end_frame": 16559,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many rolls were there in the oven?",
+                  "slot_x": "X Text (Optional):rolls",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Four",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many rolls were there in the oven?",
+                    "X Text (Optional):rolls",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Four"
+                  ]
+                }
+              ],
+              "annotation_uid": "2105acba-0aa0-45a7-96f0-380dc34daeeb"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 75.76193,
+                  "clip_end_sec": 85.27791,
+                  "video_start_sec": 435.76193,
+                  "video_end_sec": 445.27791,
+                  "video_start_frame": 13073,
+                  "video_end_frame": 13358,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many bowls did I take from the kitchen cupboard?",
+                  "slot_x": "X Text (Optional):Bowls ",
+                  "verb_x": "X Verb (Optional):[verb_not_in_list]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Two Bowls",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many bowls did I take from the kitchen cupboard?",
+                    "X Text (Optional):Bowls ",
+                    "X Verb (Optional):[verb_not_in_list]",
+                    null,
+                    null,
+                    "Answer (Optional):Two Bowls"
+                  ]
+                },
+                {
+                  "clip_start_sec": 85.59191,
+                  "clip_end_sec": 88.50149,
+                  "video_start_sec": 445.59191,
+                  "video_end_sec": 448.50149,
+                  "video_start_frame": 13368,
+                  "video_end_frame": 13455,
+                  "template": "Objects: State of an object",
+                  "query": "Did I close the kitchen cupboard door?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Yes",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I close the kitchen cupboard door?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):Yes"
+                  ]
+                },
+                {
+                  "clip_start_sec": 92.64746,
+                  "clip_end_sec": 96.21499,
+                  "video_start_sec": 452.64746,
+                  "video_end_sec": 456.21499,
+                  "video_start_frame": 13579,
+                  "video_end_frame": 13686,
+                  "template": "Objects: State of an object",
+                  "query": "Did I leave the stove on?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):No",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I leave the stove on?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):No"
+                  ]
+                },
+                {
+                  "clip_start_sec": 230.05996,
+                  "clip_end_sec": 234.3226,
+                  "video_start_sec": 590.05996,
+                  "video_end_sec": 594.3226,
+                  "video_start_frame": 17702,
+                  "video_end_frame": 17830,
+                  "template": "Objects: State of an object",
+                  "query": "Did I close the bathroom slide door?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Yes",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I close the bathroom slide door?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):Yes"
+                  ]
+                },
+                {
+                  "clip_start_sec": 240.35878,
+                  "clip_end_sec": 245.74518,
+                  "video_start_sec": 600.35878,
+                  "video_end_sec": 605.74518,
+                  "video_start_frame": 18011,
+                  "video_end_frame": 18172,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the crest toothpaste?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Bottom shelf",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the crest toothpaste?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):Bottom shelf"
+                  ]
+                },
+                {
+                  "clip_start_sec": 378.03735,
+                  "clip_end_sec": 382.9966,
+                  "video_start_sec": 738.0373500000001,
+                  "video_end_sec": 742.9966,
+                  "video_start_frame": 22141,
+                  "video_end_frame": 22290,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did he take from the bag?",
+                  "slot_x": "X Text (Optional):Bag",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Red color T-Shirt ",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did he take from the bag?",
+                    "X Text (Optional):Bag",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Red color T-Shirt "
+                  ]
+                }
+              ],
+              "annotation_uid": "5858296d-201e-40fa-bfb0-3680db5337f2"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "0696265e-aba2-401b-9316-c380c30c901e",
+      "clips": [
+        {
+          "clip_uid": "1585cc4f-cfaf-40ab-960d-5427da322fe9",
+          "video_start_sec": 180.02102864583333,
+          "video_end_sec": 660.0210286458333,
+          "video_start_frame": 5400,
+          "video_end_frame": 19800,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "2707a68c-f9d3-4db0-a98c-09473b771560",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 243.26124,
+                  "clip_end_sec": 247.90162,
+                  "video_start_sec": 423.2822686458333,
+                  "video_end_sec": 427.9226486458333,
+                  "video_start_frame": 12698,
+                  "video_end_frame": 12837,
+                  "template": "Objects: State of an object",
+                  "query": "Did I close the door?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Yes",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I close the door?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):Yes"
+                  ]
+                }
+              ],
+              "annotation_uid": "971776c6-aea1-4b4a-80b1-5ff16bf4f3b8"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 304.58393,
+                  "clip_end_sec": 344.70062,
+                  "video_start_sec": 484.60495864583334,
+                  "video_end_sec": 524.7216486458333,
+                  "video_start_frame": 14538,
+                  "video_end_frame": 15741,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did i put in the basket?",
+                  "slot_x": "X Text (Optional):basket",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):airheads candy bars and lolly pop candy",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did i put in the basket?",
+                    "X Text (Optional):basket",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):airheads candy bars and lolly pop candy"
+                  ]
+                }
+              ],
+              "annotation_uid": "cb5945de-b5af-489f-8113-c5def4d81b55"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "750c5383-58f6-4063-8cc8-50691a68994d",
+      "clips": [
+        {
+          "clip_uid": "7792982e-8227-4114-acee-924a4296a379",
+          "video_start_sec": 900.0210286458333,
+          "video_end_sec": 1380.0543619791667,
+          "video_start_frame": 27000,
+          "video_end_frame": 41401,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0333333333334,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14401,
+          "source_clip_uid": "fd061033-d121-44d9-9c97-20f873e28cdf",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 180.34791,
+                  "clip_end_sec": 183.838,
+                  "video_start_sec": 1080.3689386458334,
+                  "video_end_sec": 1083.8590286458334,
+                  "video_start_frame": 32410,
+                  "video_end_frame": 32515,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the toilet roll ?",
+                  "slot_x": "X Text (Optional):toilet roll",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):on the shelf ",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the toilet roll ?",
+                    "X Text (Optional):toilet roll",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):on the shelf "
+                  ]
+                },
+                {
+                  "clip_start_sec": 228.15276,
+                  "clip_end_sec": 233.734,
+                  "video_start_sec": 1128.1737886458334,
+                  "video_end_sec": 1133.7550286458334,
+                  "video_start_frame": 33845,
+                  "video_end_frame": 34012,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the swiping machine?",
+                  "slot_x": "X Text (Optional):swiping machine",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):on the cash counter table ",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the swiping machine?",
+                    "X Text (Optional):swiping machine",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):on the cash counter table "
+                  ]
+                },
+                {
+                  "clip_start_sec": 230.947,
+                  "clip_end_sec": 232.11658,
+                  "video_start_sec": 1130.9680286458333,
+                  "video_end_sec": 1132.1376086458333,
+                  "video_start_frame": 33928,
+                  "video_end_frame": 33963,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many dustbins was their in the shop ?",
+                  "slot_x": "X Text (Optional):dustbins",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):3dustbins",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many dustbins was their in the shop ?",
+                    "X Text (Optional):dustbins",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):3dustbins"
+                  ]
+                },
+                {
+                  "clip_start_sec": 238.02394,
+                  "clip_end_sec": 240.223,
+                  "video_start_sec": 1138.0449686458333,
+                  "video_end_sec": 1140.2440286458334,
+                  "video_start_frame": 34141,
+                  "video_end_frame": 34207,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the cleaning floor board ?",
+                  "slot_x": "X Text (Optional):cleaning floor board",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional): near the door ",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the cleaning floor board ?",
+                    "X Text (Optional):cleaning floor board",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional): near the door "
+                  ]
+                },
+                {
+                  "clip_start_sec": 397.00664,
+                  "clip_end_sec": 399.52971,
+                  "video_start_sec": 1297.0276686458333,
+                  "video_end_sec": 1299.5507386458335,
+                  "video_start_frame": 38910,
+                  "video_end_frame": 38986,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the flower bouquet?",
+                  "slot_x": "X Text (Optional):flower bouquet",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):in the wooden bucket",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the flower bouquet?",
+                    "X Text (Optional):flower bouquet",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):in the wooden bucket"
+                  ]
+                }
+              ],
+              "annotation_uid": "c1e7c85e-0fd7-45d8-861d-058972bb7ab5"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 44.76259,
+                  "clip_end_sec": 47.1179,
+                  "video_start_sec": 944.7836186458334,
+                  "video_end_sec": 947.1389286458333,
+                  "video_start_frame": 28343,
+                  "video_end_frame": 28414,
+                  "template": "Objects: State of an object",
+                  "query": "Did I give him the money ?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Yes",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I give him the money ?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):Yes"
+                  ]
+                },
+                {
+                  "clip_start_sec": 57.08665,
+                  "clip_end_sec": 62.70179,
+                  "video_start_sec": 957.1076786458333,
+                  "video_end_sec": 962.7228186458333,
+                  "video_start_frame": 28713,
+                  "video_end_frame": 28881,
+                  "template": "Objects: Where is object X before / after event Y?",
+                  "query": "Where was the jacket before handing it to me ?",
+                  "slot_x": "X Text (Optional):jacket",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):handing it to me ",
+                  "verb_y": "Y Verb (Optional):hand",
+                  "answer": "Answer (Optional):on the wall",
+                  "raw_tags": [
+                    "Objects: Where is object X before / after event Y?",
+                    "Query Text:Where was the jacket before handing it to me ?",
+                    "X Text (Optional):jacket",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):handing it to me ",
+                    "Y Verb (Optional):hand",
+                    "Answer (Optional):on the wall"
+                  ]
+                },
+                {
+                  "clip_start_sec": 92.45971,
+                  "clip_end_sec": 99.48794,
+                  "video_start_sec": 992.4807386458333,
+                  "video_end_sec": 999.5089686458333,
+                  "video_start_frame": 29774,
+                  "video_end_frame": 29985,
+                  "template": "Objects: What X is Y?",
+                  "query": "What word was printed on the white paper ?",
+                  "slot_x": "X Text (Optional):word ",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):printed on the white paper ",
+                  "verb_y": "Y Verb (Optional):print",
+                  "answer": "Answer (Optional):Fuego",
+                  "raw_tags": [
+                    "Objects: What X is Y?",
+                    "Query Text:What word was printed on the white paper ?",
+                    "X Text (Optional):word ",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):printed on the white paper ",
+                    "Y Verb (Optional):print",
+                    "Answer (Optional):Fuego"
+                  ]
+                },
+                {
+                  "clip_start_sec": 235.86563,
+                  "clip_end_sec": 240.39753,
+                  "video_start_sec": 1135.8866586458334,
+                  "video_end_sec": 1140.4185586458334,
+                  "video_start_frame": 34076,
+                  "video_end_frame": 34212,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did the man put the money ?",
+                  "slot_x": "X Text (Optional):money",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):in the cash drawer tray",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did the man put the money ?",
+                    "X Text (Optional):money",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):in the cash drawer tray"
+                  ]
+                },
+                {
+                  "clip_start_sec": 242.33057,
+                  "clip_end_sec": 244.26346,
+                  "video_start_sec": 1142.3515986458333,
+                  "video_end_sec": 1144.2844886458333,
+                  "video_start_frame": 34270,
+                  "video_end_frame": 34328,
+                  "template": "Objects: State of an object",
+                  "query": "Did I take the customer copy ?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Yes",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I take the customer copy ?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):Yes"
+                  ]
+                },
+                {
+                  "clip_start_sec": 250.66566,
+                  "clip_end_sec": 253.76464,
+                  "video_start_sec": 1150.6866886458333,
+                  "video_end_sec": 1153.7856686458333,
+                  "video_start_frame": 34520,
+                  "video_end_frame": 34613,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the paper bag ?",
+                  "slot_x": "X Text (Optional): paper bag",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):customer copy ",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the paper bag ?",
+                    "X Text (Optional): paper bag",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):customer copy "
+                  ]
+                },
+                {
+                  "clip_start_sec": 435.43377,
+                  "clip_end_sec": 447.29188,
+                  "video_start_sec": 1335.4547986458333,
+                  "video_end_sec": 1347.3129086458334,
+                  "video_start_frame": 40063,
+                  "video_end_frame": 40419,
+                  "template": "Objects: Where is object X before / after event Y?",
+                  "query": "Where was the magazine before taking  it in the hand ?",
+                  "slot_x": "X Text (Optional):magazine",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional): taking the it in the hand ",
+                  "verb_y": "Y Verb (Optional):take",
+                  "answer": "Answer (Optional):On the magazine stand",
+                  "raw_tags": [
+                    "Objects: Where is object X before / after event Y?",
+                    "Query Text:Where was the magazine before taking  it in the hand ?",
+                    "X Text (Optional):magazine",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional): taking the it in the hand ",
+                    "Y Verb (Optional):take",
+                    "Answer (Optional):On the magazine stand"
+                  ]
+                }
+              ],
+              "annotation_uid": "727cda30-d497-4594-a153-549ad8f039ea"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "5cccdec3-ebbc-40e0-a714-b4b6acd387b3",
+      "clips": [
+        {
+          "clip_uid": "89dde17a-8ed7-4466-9f13-55eeea51ef33",
+          "video_start_sec": 450.0210286458333,
+          "video_end_sec": 930.0543619791666,
+          "video_start_frame": 13500,
+          "video_end_frame": 27901,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0333333333333,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14401,
+          "source_clip_uid": "42f23c63-9871-4a8a-87dc-c5e4e09419c4",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 28.46411,
+                  "clip_end_sec": 45.82312,
+                  "video_start_sec": 478.48513864583333,
+                  "video_end_sec": 495.84414864583334,
+                  "video_start_frame": 14354,
+                  "video_end_frame": 14875,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many belts was there in the store diplay?",
+                  "slot_x": "X Text (Optional):Belts",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Four",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many belts was there in the store diplay?",
+                    "X Text (Optional):Belts",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Four"
+                  ]
+                }
+              ],
+              "annotation_uid": "a6596412-66e4-4d53-9809-c09d97a6ab9e"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "225cbdda-2153-4548-93a9-57d96bdb010f",
+      "clips": [
+        {
+          "clip_uid": "cf94b543-9018-41d7-bfe4-5355aa7bea06",
+          "video_start_sec": 540.0210286458333,
+          "video_end_sec": 1020.0210286458333,
+          "video_start_frame": 16200,
+          "video_end_frame": 30600,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "a445dc20-9d12-4de9-b3f0-0cda9d48881f",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 435.54726,
+                  "clip_end_sec": 443.00838,
+                  "video_start_sec": 975.5682886458333,
+                  "video_end_sec": 983.0294086458333,
+                  "video_start_frame": 29266,
+                  "video_end_frame": 29490,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many clothes did I pick up from the floor?",
+                  "slot_x": "X Text (Optional):clothes",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Six",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many clothes did I pick up from the floor?",
+                    "X Text (Optional):clothes",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Six"
+                  ]
+                }
+              ],
+              "annotation_uid": "25bb8686-e391-424a-b928-5f4cda5dec41"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 267.0166,
+                  "clip_end_sec": 282.71561,
+                  "video_start_sec": 807.0376286458334,
+                  "video_end_sec": 822.7366386458334,
+                  "video_start_frame": 24210,
+                  "video_end_frame": 24681,
+                  "template": "Objects: What X is Y?",
+                  "query": "What color was the shoes on the white shelf?",
+                  "slot_x": "X Text (Optional):Color",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):Shoes on the white shelf",
+                  "verb_y": "Y Verb (Optional):[verb_not_applicable]",
+                  "answer": "Answer (Optional):Black",
+                  "raw_tags": [
+                    "Objects: What X is Y?",
+                    "Query Text:What color was the shoes on the white shelf?",
+                    "X Text (Optional):Color",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):Shoes on the white shelf",
+                    "Y Verb (Optional):[verb_not_applicable]",
+                    "Answer (Optional):Black"
+                  ]
+                }
+              ],
+              "annotation_uid": "06c5e2f7-a667-47ac-ab28-983b900d1ac5"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "d64679d7-71d9-48db-b3d3-8e5a8cf1231d",
+      "clips": [
+        {
+          "clip_uid": "7535e047-f19e-454e-a502-1dff7aa05f35",
+          "video_start_sec": 90.0,
+          "video_end_sec": 570.0,
+          "video_start_frame": 2700,
+          "video_end_frame": 17100,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "b04e2f87-b7f9-41cd-86c7-830e9c42206a",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 79.28952,
+                  "clip_end_sec": 88.211,
+                  "video_start_sec": 169.28951999999998,
+                  "video_end_sec": 178.211,
+                  "video_start_frame": 5079,
+                  "video_end_frame": 5346,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the lubricating grease?",
+                  "slot_x": "X Text (Optional):lubricating grease",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):On the cardboard table",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the lubricating grease?",
+                    "X Text (Optional):lubricating grease",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):On the cardboard table"
+                  ]
+                },
+                {
+                  "clip_start_sec": 221.12865,
+                  "clip_end_sec": 232.16372,
+                  "video_start_sec": 311.12865,
+                  "video_end_sec": 322.16372,
+                  "video_start_frame": 9334,
+                  "video_end_frame": 9665,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the hard bristle drill brush?",
+                  "slot_x": "X Text (Optional):hard bristle drill brush",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):in the drawer next to the cardboard table.",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the hard bristle drill brush?",
+                    "X Text (Optional):hard bristle drill brush",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):in the drawer next to the cardboard table."
+                  ]
+                },
+                {
+                  "clip_start_sec": 270.82535,
+                  "clip_end_sec": 278.45062,
+                  "video_start_sec": 360.82535,
+                  "video_end_sec": 368.45062,
+                  "video_start_frame": 10825,
+                  "video_end_frame": 11054,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the blue cabinet?",
+                  "slot_x": "X Text (Optional):blue cabinet",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Barcode",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the blue cabinet?",
+                    "X Text (Optional):blue cabinet",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Barcode"
+                  ]
+                },
+                {
+                  "clip_start_sec": 384.66916,
+                  "clip_end_sec": 390.3531,
+                  "video_start_sec": 474.66916,
+                  "video_end_sec": 480.3531,
+                  "video_start_frame": 14240,
+                  "video_end_frame": 14411,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the hard bristle brush?",
+                  "slot_x": "X Text (Optional):hard bristle brush",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):on the opposite side of the car lifting crane table.",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the hard bristle brush?",
+                    "X Text (Optional):hard bristle brush",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):on the opposite side of the car lifting crane table."
+                  ]
+                },
+                {
+                  "clip_start_sec": 392.23608,
+                  "clip_end_sec": 416.45621,
+                  "video_start_sec": 482.23608,
+                  "video_end_sec": 506.45621,
+                  "video_start_frame": 14467,
+                  "video_end_frame": 15194,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the disc brake rotor box?",
+                  "slot_x": "X Text (Optional):disc brake rotor box",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Folding knife",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the disc brake rotor box?",
+                    "X Text (Optional):disc brake rotor box",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Folding knife"
+                  ]
+                }
+              ],
+              "annotation_uid": "bfba0251-4140-446c-b33a-61dcf958ca50"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 79.98526,
+                  "clip_end_sec": 88.23593,
+                  "video_start_sec": 169.98525999999998,
+                  "video_end_sec": 178.23593,
+                  "video_start_frame": 5100,
+                  "video_end_frame": 5347,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the lubricating grease?",
+                  "slot_x": "X Text (Optional):lubricating grease",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):On the cardboard table",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the lubricating grease?",
+                    "X Text (Optional):lubricating grease",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):On the cardboard table"
+                  ]
+                },
+                {
+                  "clip_start_sec": 221.43167,
+                  "clip_end_sec": 232.42252,
+                  "video_start_sec": 311.43167,
+                  "video_end_sec": 322.42251999999996,
+                  "video_start_frame": 9343,
+                  "video_end_frame": 9673,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the hard bristle drill brush?",
+                  "slot_x": "X Text (Optional):hard bristle drill brush",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):in the drawer next to the card board table.",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the hard bristle drill brush?",
+                    "X Text (Optional):hard bristle drill brush",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):in the drawer next to the card board table."
+                  ]
+                },
+                {
+                  "clip_start_sec": 270.95422,
+                  "clip_end_sec": 277.86532,
+                  "video_start_sec": 360.95422,
+                  "video_end_sec": 367.86532,
+                  "video_start_frame": 10829,
+                  "video_end_frame": 11036,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the blue cabinet?",
+                  "slot_x": "X Text (Optional):blue cabinet",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):barcode ",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the blue cabinet?",
+                    "X Text (Optional):blue cabinet",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):barcode "
+                  ]
+                },
+                {
+                  "clip_start_sec": 384.77788,
+                  "clip_end_sec": 390.43985,
+                  "video_start_sec": 474.77788,
+                  "video_end_sec": 480.43985,
+                  "video_start_frame": 14243,
+                  "video_end_frame": 14413,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the hard bristle brush?",
+                  "slot_x": "X Text (Optional):hard bristle brush",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):opposite side of car lifting crane table",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the hard bristle brush?",
+                    "X Text (Optional):hard bristle brush",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):opposite side of car lifting crane table"
+                  ]
+                },
+                {
+                  "clip_start_sec": 408.97115,
+                  "clip_end_sec": 416.79582,
+                  "video_start_sec": 498.97115,
+                  "video_end_sec": 506.79582,
+                  "video_start_frame": 14969,
+                  "video_end_frame": 15204,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the disc brake rotor box?",
+                  "slot_x": "X Text (Optional):disc brake rotor box",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Folding knife",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the disc brake rotor box?",
+                    "X Text (Optional):disc brake rotor box",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Folding knife"
+                  ]
+                }
+              ],
+              "annotation_uid": "a504ea6c-e631-4e89-8b1b-fcaaad3567f8"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "a5f7ff44-47e1-4343-b9b4-bb39d1220f1b",
+      "clips": [
+        {
+          "clip_uid": "d9b2cdd9-599b-41b1-81a9-e3c089eaddc7",
+          "video_start_sec": 180.02102864583333,
+          "video_end_sec": 660.0210286458333,
+          "video_start_frame": 5400,
+          "video_end_frame": 19800,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "f9072c18-4707-4307-b708-8b9acd55bd3b",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 237.99394,
+                  "clip_end_sec": 244.90019,
+                  "video_start_sec": 418.01496864583333,
+                  "video_end_sec": 424.92121864583333,
+                  "video_start_frame": 12540,
+                  "video_end_frame": 12747,
+                  "template": "Objects: What X is Y?",
+                  "query": "What word was written on the paper of the glass door?",
+                  "slot_x": "X Text (Optional):Word",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):Written on the paper of the glass door.",
+                  "verb_y": "Y Verb (Optional):write",
+                  "answer": "Answer (Optional):Light Bar",
+                  "raw_tags": [
+                    "Objects: What X is Y?",
+                    "Query Text:What word was written on the paper of the glass door?",
+                    "X Text (Optional):Word",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):Written on the paper of the glass door.",
+                    "Y Verb (Optional):write",
+                    "Answer (Optional):Light Bar"
+                  ]
+                }
+              ],
+              "annotation_uid": "5132bd2a-9bb2-4394-86fa-d7aeb14e55fb"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "9b221f93-19a9-4593-9187-049d9dedfcf0",
+      "clips": [
+        {
+          "clip_uid": "d4e31d81-dccd-43ca-a4c6-2db0f391c1d6",
+          "video_start_sec": 1260.0,
+          "video_end_sec": 1740.0,
+          "video_start_frame": 37800,
+          "video_end_frame": 52200,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "f36b7ae3-972c-46f9-b727-7cc45d604c0c",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 370.46426,
+                  "clip_end_sec": 375.464,
+                  "video_start_sec": 1630.46426,
+                  "video_end_sec": 1635.464,
+                  "video_start_frame": 48914,
+                  "video_end_frame": 49064,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the wood trunk? ",
+                  "slot_x": "X Text (Optional):Wood trunk.",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):In the red car.",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the wood trunk? ",
+                    "X Text (Optional):Wood trunk.",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):In the red car."
+                  ]
+                }
+              ],
+              "annotation_uid": "9369d420-14a3-4482-b956-a846766038b4"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 368.1556,
+                  "clip_end_sec": 375.322,
+                  "video_start_sec": 1628.1556,
+                  "video_end_sec": 1635.3220000000001,
+                  "video_start_frame": 48845,
+                  "video_end_frame": 49060,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the red car?",
+                  "slot_x": "X Text (Optional):Red car.",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Wood trunk. ",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the red car?",
+                    "X Text (Optional):Red car.",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Wood trunk. "
+                  ]
+                }
+              ],
+              "annotation_uid": "bd249ec3-b2aa-4e43-95c0-6148f4b43e63"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "5979b5d4-03d6-4a96-ab3c-0a93aebb590a",
+      "clips": [
+        {
+          "clip_uid": "97d9218c-10a7-495a-8e3c-35000e329328",
+          "video_start_sec": 540.0210286458333,
+          "video_end_sec": 1020.0210286458333,
+          "video_start_frame": 16200,
+          "video_end_frame": 30600,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "23c53094-30ac-45e2-8942-be53fd2575d6",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 444.79653,
+                  "clip_end_sec": 466.99529,
+                  "video_start_sec": 984.8175586458333,
+                  "video_end_sec": 1007.0163186458333,
+                  "video_start_frame": 29544,
+                  "video_end_frame": 30210,
+                  "template": "Objects: What X did I Y?",
+                  "query": "What packet did I pick?",
+                  "slot_x": "X Text (Optional):packet",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):pick",
+                  "verb_y": "Y Verb (Optional):pick",
+                  "answer": "Answer (Optional):Rice Krispies",
+                  "raw_tags": [
+                    "Objects: What X did I Y?",
+                    "Query Text:What packet did I pick?",
+                    "X Text (Optional):packet",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):pick",
+                    "Y Verb (Optional):pick",
+                    "Answer (Optional):Rice Krispies"
+                  ]
+                }
+              ],
+              "annotation_uid": "9762dfa7-5740-4b73-a4f8-b7ebbc8ca992"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 443.88796,
+                  "clip_end_sec": 466.10215,
+                  "video_start_sec": 983.9089886458333,
+                  "video_end_sec": 1006.1231786458334,
+                  "video_start_frame": 29517,
+                  "video_end_frame": 30183,
+                  "template": "Objects: What X did I Y?",
+                  "query": "What food did I pick?",
+                  "slot_x": "X Text (Optional):food",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):pick",
+                  "verb_y": "Y Verb (Optional):pick",
+                  "answer": "Answer (Optional):Rice Krispies Cereal",
+                  "raw_tags": [
+                    "Objects: What X did I Y?",
+                    "Query Text:What food did I pick?",
+                    "X Text (Optional):food",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):pick",
+                    "Y Verb (Optional):pick",
+                    "Answer (Optional):Rice Krispies Cereal"
+                  ]
+                }
+              ],
+              "annotation_uid": "b96679fd-facd-4812-98a9-3768fcb659d2"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "95abf338-cf33-43f4-a8d0-44d6ea691d0f",
+      "clips": [
+        {
+          "clip_uid": "a58e99cd-dc33-4818-8578-78b26a48dc6e",
+          "video_start_sec": 900.0210286458333,
+          "video_end_sec": 1380.0210286458334,
+          "video_start_frame": 27000,
+          "video_end_frame": 41400,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0000000000001,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "f92f4da2-361b-4338-818a-0faf4bfd24d7",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 195.21981,
+                  "clip_end_sec": 204.20041,
+                  "video_start_sec": 1095.2408386458333,
+                  "video_end_sec": 1104.2214386458334,
+                  "video_start_frame": 32857,
+                  "video_end_frame": 33126,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I keep the bottles?",
+                  "slot_x": "X Text (Optional):bottles",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):on the tables ",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I keep the bottles?",
+                    "X Text (Optional):bottles",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):on the tables "
+                  ]
+                },
+                {
+                  "clip_start_sec": 212.77334,
+                  "clip_end_sec": 214.92318,
+                  "video_start_sec": 1112.7943686458334,
+                  "video_end_sec": 1114.9442086458334,
+                  "video_start_frame": 33383,
+                  "video_end_frame": 33448,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many magazines did I pick up from the book shelf?",
+                  "slot_x": "X Text (Optional):book shelf? ",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):two ",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many magazines did I pick up from the book shelf?",
+                    "X Text (Optional):book shelf? ",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):two "
+                  ]
+                }
+              ],
+              "annotation_uid": "012a23ea-7ddf-4747-83ce-5c5d1f5adf67"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 209.494,
+                  "clip_end_sec": 214.393,
+                  "video_start_sec": 1109.5150286458334,
+                  "video_end_sec": 1114.4140286458332,
+                  "video_start_frame": 33285,
+                  "video_end_frame": 33432,
+                  "template": "Objects: Where is object X before / after event Y?",
+                  "query": "Where was the magazine before I picked it up?",
+                  "slot_x": "X Text (Optional):magazine",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):I picked it up",
+                  "verb_y": "Y Verb (Optional):pick",
+                  "answer": "Answer (Optional):On the magazine stand",
+                  "raw_tags": [
+                    "Objects: Where is object X before / after event Y?",
+                    "Query Text:Where was the magazine before I picked it up?",
+                    "X Text (Optional):magazine",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):I picked it up",
+                    "Y Verb (Optional):pick",
+                    "Answer (Optional):On the magazine stand"
+                  ]
+                }
+              ],
+              "annotation_uid": "1145a5f2-dcb2-4e2a-bc11-9b774bc15ca5"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "c95979b0-ab66-4356-bc39-ea367b630971",
+      "clips": [
+        {
+          "clip_uid": "184f3bed-87f4-4ab7-b34a-d57906660067",
+          "video_start_sec": 1170.0210286458334,
+          "video_end_sec": 1650.0543619791667,
+          "video_start_frame": 35100,
+          "video_end_frame": 49501,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0333333333333,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14401,
+          "source_clip_uid": "4f85636f-a6f9-48c9-8b11-50cf927c7e73",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 54.82906,
+                  "clip_end_sec": 57.429,
+                  "video_start_sec": 1224.8500886458335,
+                  "video_end_sec": 1227.4500286458335,
+                  "video_start_frame": 36745,
+                  "video_end_frame": 36823,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the basket?",
+                  "slot_x": "X Text (Optional):basket.",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Nearby door.",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the basket?",
+                    "X Text (Optional):basket.",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Nearby door."
+                  ]
+                }
+              ],
+              "annotation_uid": "06f28a5d-cfdd-4b09-b4dd-84974dd74ab9"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "d651a4c5-b3ef-4f9a-b69c-5e9baebae9ad",
+      "clips": [
+        {
+          "clip_uid": "324fefe4-9f63-4e36-9e65-4243e88a472f",
+          "video_start_sec": 360.0,
+          "video_end_sec": 840.0666666666667,
+          "video_start_frame": 10800,
+          "video_end_frame": 25202,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0666666666667,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14402,
+          "source_clip_uid": "f9dd039f-50d8-4117-9e3f-83ed75e5a032",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 422.71878,
+                  "clip_end_sec": 428.099,
+                  "video_start_sec": 782.7187799999999,
+                  "video_end_sec": 788.0989999999999,
+                  "video_start_frame": 23482,
+                  "video_end_frame": 23643,
+                  "template": "Objects: What X is Y?",
+                  "query": "What words were written on the white box?",
+                  "slot_x": "X Text (Optional):words",
+                  "verb_x": null,
+                  "slot_y": "Y Text (Optional):written on the white box",
+                  "verb_y": null,
+                  "answer": "Answer (Optional):ICE CLIMBING STUFF",
+                  "raw_tags": [
+                    "Objects: What X is Y?",
+                    "Query Text:What words were written on the white box?",
+                    "X Text (Optional):words",
+                    null,
+                    "Y Text (Optional):written on the white box",
+                    null,
+                    "Answer (Optional):ICE CLIMBING STUFF"
+                  ]
+                }
+              ],
+              "annotation_uid": "71020edb-86c0-447f-af70-42049b73bd5d"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "6801963a-1672-447c-b231-39932d840f7b",
+      "clips": [
+        {
+          "clip_uid": "602ad34f-ceb6-4dca-9347-842bb47805d0",
+          "video_start_sec": 900.0,
+          "video_end_sec": 1309.1,
+          "video_start_frame": 27000,
+          "video_end_frame": 39273,
+          "clip_start_sec": 0,
+          "clip_end_sec": 409.0999999999999,
+          "clip_start_frame": 0,
+          "clip_end_frame": 12273,
+          "source_clip_uid": "d84d790e-b902-462c-b83d-48a520df9094",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 32.53087,
+                  "clip_end_sec": 36.05066,
+                  "video_start_sec": 932.53087,
+                  "video_end_sec": 936.05066,
+                  "video_start_frame": 27976,
+                  "video_end_frame": 28082,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the ring spanner?",
+                  "slot_x": "X Text (Optional):ring spanner",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):In blue drawers",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the ring spanner?",
+                    "X Text (Optional):ring spanner",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):In blue drawers"
+                  ]
+                },
+                {
+                  "clip_start_sec": 41.70091,
+                  "clip_end_sec": 45.66722,
+                  "video_start_sec": 941.70091,
+                  "video_end_sec": 945.66722,
+                  "video_start_frame": 28251,
+                  "video_end_frame": 28370,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the yellow dustbin?",
+                  "slot_x": "X Text (Optional):yellow dustbin",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):red cloth",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the yellow dustbin?",
+                    "X Text (Optional):yellow dustbin",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):red cloth"
+                  ]
+                },
+                {
+                  "clip_start_sec": 104.16854,
+                  "clip_end_sec": 111.10235,
+                  "video_start_sec": 1004.16854,
+                  "video_end_sec": 1011.10235,
+                  "video_start_frame": 30125,
+                  "video_end_frame": 30333,
+                  "template": "Objects: Where is object X?",
+                  "query": "Where was the oil filter?",
+                  "slot_x": "X Text (Optional):oil filter",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):In blue cupboard",
+                  "raw_tags": [
+                    "Objects: Where is object X?",
+                    "Query Text:Where was the oil filter?",
+                    "X Text (Optional):oil filter",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):In blue cupboard"
+                  ]
+                },
+                {
+                  "clip_start_sec": 110.89832,
+                  "clip_end_sec": 114.07124,
+                  "video_start_sec": 1010.89832,
+                  "video_end_sec": 1014.07124,
+                  "video_start_frame": 30327,
+                  "video_end_frame": 30422,
+                  "template": "Objects: State of an object",
+                  "query": "Did I close the blue cupboard?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):yes",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I close the blue cupboard?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):yes"
+                  ]
+                },
+                {
+                  "clip_start_sec": 118.73829,
+                  "clip_end_sec": 122.15269,
+                  "video_start_sec": 1018.73829,
+                  "video_end_sec": 1022.15269,
+                  "video_start_frame": 30562,
+                  "video_end_frame": 30665,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put In dustbin?",
+                  "slot_x": "X Text (Optional):dustbin",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):packing box of the oil filter product",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put In dustbin?",
+                    "X Text (Optional):dustbin",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):packing box of the oil filter product"
+                  ]
+                },
+                {
+                  "clip_start_sec": 135.36891,
+                  "clip_end_sec": 150.13566,
+                  "video_start_sec": 1035.36891,
+                  "video_end_sec": 1050.13566,
+                  "video_start_frame": 31061,
+                  "video_end_frame": 31504,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I fit in the car?",
+                  "slot_x": "X Text (Optional):car",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):oil filter",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I fit in the car?",
+                    "X Text (Optional):car",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):oil filter"
+                  ]
+                },
+                {
+                  "clip_start_sec": 199.95942,
+                  "clip_end_sec": 207.943,
+                  "video_start_sec": 1099.95942,
+                  "video_end_sec": 1107.943,
+                  "video_start_frame": 32999,
+                  "video_end_frame": 33238,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put on my hand?",
+                  "slot_x": "X Text (Optional):hand",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Glass cleaner soap",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put on my hand?",
+                    "X Text (Optional):hand",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Glass cleaner soap"
+                  ]
+                },
+                {
+                  "clip_start_sec": 248.74916,
+                  "clip_end_sec": 253.234,
+                  "video_start_sec": 1148.74916,
+                  "video_end_sec": 1153.234,
+                  "video_start_frame": 34462,
+                  "video_end_frame": 34597,
+                  "template": "Objects: Where is my object X?",
+                  "query": "Where was my remote?",
+                  "slot_x": "X Text (Optional):remote",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Close to the computer",
+                  "raw_tags": [
+                    "Objects: Where is my object X?",
+                    "Query Text:Where was my remote?",
+                    "X Text (Optional):remote",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Close to the computer"
+                  ]
+                },
+                {
+                  "clip_start_sec": 354.1792,
+                  "clip_end_sec": 360.51182,
+                  "video_start_sec": 1254.1792,
+                  "video_end_sec": 1260.51182,
+                  "video_start_frame": 37625,
+                  "video_end_frame": 37815,
+                  "template": "Objects: State of an object",
+                  "query": "Did I close the door of the car?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):yes",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I close the door of the car?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):yes"
+                  ]
+                },
+                {
+                  "clip_start_sec": 393.1735,
+                  "clip_end_sec": 399.31779,
+                  "video_start_sec": 1293.1734999999999,
+                  "video_end_sec": 1299.31779,
+                  "video_start_frame": 38795,
+                  "video_end_frame": 38980,
+                  "template": "Objects: State of an object",
+                  "query": "Did I close the bonnet of the car?",
+                  "slot_x": "X Text (Optional):",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):no",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I close the bonnet of the car?",
+                    "X Text (Optional):",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):no"
+                  ]
+                },
+                {
+                  "clip_start_sec": 395.62159,
+                  "clip_end_sec": 398.7262,
+                  "video_start_sec": 1295.62159,
+                  "video_end_sec": 1298.7262,
+                  "video_start_frame": 38869,
+                  "video_end_frame": 38962,
+                  "template": "Objects: State of an object",
+                  "query": "Did I close the blue drawer?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):no",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I close the blue drawer?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):no"
+                  ]
+                }
+              ],
+              "annotation_uid": "16f39b3d-28e7-4985-98e1-c8895ce8a95e"
+            }
+          ]
+        },
+        {
+          "clip_uid": "49e906fd-dc9c-4519-88c0-eaf5d61c8615",
+          "video_start_sec": 0.0,
+          "video_end_sec": 480.0,
+          "video_start_frame": 0,
+          "video_end_frame": 14400,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "e97e320f-2ab7-45f0-9157-e496180a2c21",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 168.5858,
+                  "clip_end_sec": 171.1785,
+                  "video_start_sec": 168.5858,
+                  "video_end_sec": 171.1785,
+                  "video_start_frame": 5058,
+                  "video_end_frame": 5135,
+                  "template": "Place: Where did I put X?",
+                  "query": "What did I throw in the dustbin?",
+                  "slot_x": "X Text (Optional):the dustbin",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):trash",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:What did I throw in the dustbin?",
+                    "X Text (Optional):the dustbin",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):trash"
+                  ]
+                }
+              ],
+              "annotation_uid": "a4aae22e-8eea-45e7-b136-8ac1b40364cb"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "d4f3771d-2b68-4b9e-81a8-af474bca0cc8",
+      "clips": [
+        {
+          "clip_uid": "8d3d7442-07c5-4533-9144-f5f3bb0982a5",
+          "video_start_sec": 270.0210286458333,
+          "video_end_sec": 750.0210286458333,
+          "video_start_frame": 8100,
+          "video_end_frame": 22500,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14400,
+          "source_clip_uid": "415173f8-87be-466b-8431-bd0b1534606c",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 179.40083,
+                  "clip_end_sec": 187.09857,
+                  "video_start_sec": 449.42185864583337,
+                  "video_end_sec": 457.1195986458333,
+                  "video_start_frame": 13482,
+                  "video_end_frame": 13713,
+                  "template": "Objects: State of an object",
+                  "query": "Did I leave the store door open?",
+                  "slot_x": null,
+                  "verb_x": null,
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Yes",
+                  "raw_tags": [
+                    "Objects: State of an object",
+                    "Query Text:Did I leave the store door open?",
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Answer (Optional):Yes"
+                  ]
+                }
+              ],
+              "annotation_uid": "2407d643-6905-4cb6-8d54-f1860dd983f5"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 34.25528,
+                  "clip_end_sec": 44.59123,
+                  "video_start_sec": 304.2763086458333,
+                  "video_end_sec": 314.6122586458333,
+                  "video_start_frame": 9128,
+                  "video_end_frame": 9438,
+                  "template": "Objects: What X is Y?",
+                  "query": "What color chip packet was I holding?",
+                  "slot_x": "X Text (Optional):color chip packet",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):I holding",
+                  "verb_y": "Y Verb (Optional):hold",
+                  "answer": "Answer (Optional):Red",
+                  "raw_tags": [
+                    "Objects: What X is Y?",
+                    "Query Text:What color chip packet was I holding?",
+                    "X Text (Optional):color chip packet",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):I holding",
+                    "Y Verb (Optional):hold",
+                    "Answer (Optional):Red"
+                  ]
+                },
+                {
+                  "clip_start_sec": 143.09543,
+                  "clip_end_sec": 157.80203,
+                  "video_start_sec": 413.1164586458333,
+                  "video_end_sec": 427.8230586458333,
+                  "video_start_frame": 12393,
+                  "video_end_frame": 12834,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many Pepsi bottles did he bring out?",
+                  "slot_x": "X Text (Optional):Pepsi bottles did he bring out",
+                  "verb_x": "X Verb (Optional):bring",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Two",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many Pepsi bottles did he bring out?",
+                    "X Text (Optional):Pepsi bottles did he bring out",
+                    "X Verb (Optional):bring",
+                    null,
+                    null,
+                    "Answer (Optional):Two"
+                  ]
+                },
+                {
+                  "clip_start_sec": 159.39961,
+                  "clip_end_sec": 176.40665,
+                  "video_start_sec": 429.4206386458333,
+                  "video_end_sec": 446.42767864583334,
+                  "video_start_frame": 12882,
+                  "video_end_frame": 13392,
+                  "template": "Objects: How many X\u2019s? (quantity question)",
+                  "query": "How many dustbins were there outside of the store?",
+                  "slot_x": "X Text (Optional):dustbins were there outside of the store",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Three",
+                  "raw_tags": [
+                    "Objects: How many X\u2019s? (quantity question)",
+                    "Query Text:How many dustbins were there outside of the store?",
+                    "X Text (Optional):dustbins were there outside of the store",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Three"
+                  ]
+                },
+                {
+                  "clip_start_sec": 298.7722,
+                  "clip_end_sec": 325.22929,
+                  "video_start_sec": 568.7932286458333,
+                  "video_end_sec": 595.2503186458333,
+                  "video_start_frame": 17063,
+                  "video_end_frame": 17857,
+                  "template": "Objects: What X did I Y?",
+                  "query": "What color jacket did I try?",
+                  "slot_x": "X Text (Optional):color jacket",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):try",
+                  "verb_y": "Y Verb (Optional):try",
+                  "answer": "Answer (Optional):Black",
+                  "raw_tags": [
+                    "Objects: What X did I Y?",
+                    "Query Text:What color jacket did I try?",
+                    "X Text (Optional):color jacket",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):try",
+                    "Y Verb (Optional):try",
+                    "Answer (Optional):Black"
+                  ]
+                }
+              ],
+              "annotation_uid": "7503f0b9-b388-4439-85dc-0a90043be4b6"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    },
+    {
+      "video_uid": "408cd48d-2156-4d5c-b8fd-8beccf301066",
+      "clips": [
+        {
+          "clip_uid": "0599509a-fd02-41b8-9966-75976e22d66f",
+          "video_start_sec": 449.9876953125,
+          "video_end_sec": 930.0210286458333,
+          "video_start_frame": 13499,
+          "video_end_frame": 27900,
+          "clip_start_sec": 0,
+          "clip_end_sec": 480.0333333333333,
+          "clip_start_frame": 0,
+          "clip_end_frame": 14401,
+          "source_clip_uid": "e3199603-13f5-4972-bce1-7ee6423cd098",
+          "annotations": [
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 12.72067,
+                  "clip_end_sec": 20.91231,
+                  "video_start_sec": 462.7083653125,
+                  "video_end_sec": 470.9000053125,
+                  "video_start_frame": 13881,
+                  "video_end_frame": 14126,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the bottles?",
+                  "slot_x": "X Text (Optional):bottles",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):on the kitchen and dining room serving hatch",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the bottles?",
+                    "X Text (Optional):bottles",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):on the kitchen and dining room serving hatch"
+                  ]
+                },
+                {
+                  "clip_start_sec": 45.64465,
+                  "clip_end_sec": 47.96654,
+                  "video_start_sec": 495.63234531250004,
+                  "video_end_sec": 497.95423531250003,
+                  "video_start_frame": 14868,
+                  "video_end_frame": 14938,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put on the kitchen and dining room serving hatch?",
+                  "slot_x": "X Text (Optional):kitchen and dining room serving hatch",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):red color cover",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put on the kitchen and dining room serving hatch?",
+                    "X Text (Optional):kitchen and dining room serving hatch",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):red color cover"
+                  ]
+                },
+                {
+                  "clip_start_sec": 242.0,
+                  "clip_end_sec": 245.88173,
+                  "video_start_sec": 691.9876953125,
+                  "video_end_sec": 695.8694253125,
+                  "video_start_frame": 20759,
+                  "video_end_frame": 20875,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the dustbin, dust cleaning brush, and dust pan?",
+                  "slot_x": "X Text (Optional): dustbin, dust cleaning brush, and dust pan",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Next to the sofa table",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the dustbin, dust cleaning brush, and dust pan?",
+                    "X Text (Optional): dustbin, dust cleaning brush, and dust pan",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Next to the sofa table"
+                  ]
+                },
+                {
+                  "clip_start_sec": 279.96806,
+                  "clip_end_sec": 300.037,
+                  "video_start_sec": 729.9557553125001,
+                  "video_end_sec": 750.0246953125,
+                  "video_start_frame": 21898,
+                  "video_end_frame": 22500,
+                  "template": "Objects: What did I put in X?",
+                  "query": "What did I put in the blue bag?",
+                  "slot_x": "X Text (Optional):blue bag",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):clothes, swimming google, shampoo, cover and mask",
+                  "raw_tags": [
+                    "Objects: What did I put in X?",
+                    "Query Text:What did I put in the blue bag?",
+                    "X Text (Optional):blue bag",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):clothes, swimming google, shampoo, cover and mask"
+                  ]
+                },
+                {
+                  "clip_start_sec": 323.0,
+                  "clip_end_sec": 326.75958,
+                  "video_start_sec": 772.9876953125,
+                  "video_end_sec": 776.7472753125,
+                  "video_start_frame": 23189,
+                  "video_end_frame": 23302,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the black bag?",
+                  "slot_x": "X Text (Optional):black bag",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):Next to the dining table cabinet",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the black bag?",
+                    "X Text (Optional):black bag",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):Next to the dining table cabinet"
+                  ]
+                }
+              ],
+              "annotation_uid": "7ae17d32-7696-4dcb-b021-45f234d2da99"
+            },
+            {
+              "language_queries": [
+                {
+                  "clip_start_sec": 31.06221,
+                  "clip_end_sec": 38.90489,
+                  "video_start_sec": 481.0499053125,
+                  "video_end_sec": 488.89258531250005,
+                  "video_start_frame": 14431,
+                  "video_end_frame": 14666,
+                  "template": "Objects: Where is object X before / after event Y?",
+                  "query": "Where was the trash before I collected it with my hand?",
+                  "slot_x": "X Text (Optional):trash",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):I collected it with my hand",
+                  "verb_y": "Y Verb (Optional):collect",
+                  "answer": "Answer (Optional):on the table",
+                  "raw_tags": [
+                    "Objects: Where is object X before / after event Y?",
+                    "Query Text:Where was the trash before I collected it with my hand?",
+                    "X Text (Optional):trash",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):I collected it with my hand",
+                    "Y Verb (Optional):collect",
+                    "Answer (Optional):on the table"
+                  ]
+                },
+                {
+                  "clip_start_sec": 43.98162,
+                  "clip_end_sec": 48.11568,
+                  "video_start_sec": 493.96931531250004,
+                  "video_end_sec": 498.1033753125,
+                  "video_start_frame": 14818,
+                  "video_end_frame": 14942,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the plastic carry bag?",
+                  "slot_x": "X Text (Optional):plastic carry bag",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):on the kitchen pass through",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the plastic carry bag?",
+                    "X Text (Optional):plastic carry bag",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):on the kitchen pass through"
+                  ]
+                },
+                {
+                  "clip_start_sec": 192.78066,
+                  "clip_end_sec": 199.20072,
+                  "video_start_sec": 642.7683553125,
+                  "video_end_sec": 649.1884153125,
+                  "video_start_frame": 19282,
+                  "video_end_frame": 19475,
+                  "template": "Objects: Where is object X before / after event Y?",
+                  "query": "Where was the dust pan before I picked it up?",
+                  "slot_x": "X Text (Optional):dust pan",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": "Y Text (Optional):I picked it up",
+                  "verb_y": "Y Verb (Optional):pick",
+                  "answer": "Answer (Optional):in the corner",
+                  "raw_tags": [
+                    "Objects: Where is object X before / after event Y?",
+                    "Query Text:Where was the dust pan before I picked it up?",
+                    "X Text (Optional):dust pan",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    "Y Text (Optional):I picked it up",
+                    "Y Verb (Optional):pick",
+                    "Answer (Optional):in the corner"
+                  ]
+                },
+                {
+                  "clip_start_sec": 313.05852,
+                  "clip_end_sec": 323.08409,
+                  "video_start_sec": 763.0462153125,
+                  "video_end_sec": 773.0717853125,
+                  "video_start_frame": 22891,
+                  "video_end_frame": 23192,
+                  "template": "Place: Where did I put X?",
+                  "query": "Where did I put the glasses?",
+                  "slot_x": "X Text (Optional):glasses",
+                  "verb_x": "X Verb (Optional):[verb_not_applicable]",
+                  "slot_y": null,
+                  "verb_y": null,
+                  "answer": "Answer (Optional):on the kitchen pass through",
+                  "raw_tags": [
+                    "Place: Where did I put X?",
+                    "Query Text:Where did I put the glasses?",
+                    "X Text (Optional):glasses",
+                    "X Verb (Optional):[verb_not_applicable]",
+                    null,
+                    null,
+                    "Answer (Optional):on the kitchen pass through"
+                  ]
+                }
+              ],
+              "annotation_uid": "ad000352-2026-42ce-a475-ccdad32d3913"
+            }
+          ]
+        }
+      ],
+      "split": "train"
+    }
+  ]
+}
