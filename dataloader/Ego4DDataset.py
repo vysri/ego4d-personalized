@@ -22,7 +22,7 @@ class NLQVideoQueryDataset(Dataset):
                         answer = language_query["answer"]
                         answer = re.sub(r'^Answer \(Optional\):\s*', '', answer)
                         data_dict["query"].append(query)
-                        data_dict["answer"].append(query)
+                        data_dict["answer"].append(answer)
             self.data.append(data_dict)
             #print(self.data)
 
